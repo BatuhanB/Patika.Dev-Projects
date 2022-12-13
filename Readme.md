@@ -39,4 +39,10 @@ private static void PrintMessage(float average) {
             System.out.println("Sorry! You have not passed the class!");
         }
     }
+
 ```
+<div align="center">
+<h3>Project Images</h3>
+<img alt="image1" width="275" height="200" src="https://user-images.githubusercontent.com/56514839/207325474-564006a5-26c2-460a-a9da-c53edff113d4.png"/>
+<img alt="image2" width="300" height="200" src="https://user-images.githubusercontent.com/56514839/207325684-b7781b1e-3fd6-40a6-9bed-5bc8a15a40ad.png"/>
+</div>
