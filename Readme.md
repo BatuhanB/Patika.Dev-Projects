@@ -8,7 +8,7 @@
 </div>
 
 ## Calculate Average of Grades
-- This project aim to calculate and return information about grades of entering by user.
+- This project aims to calculate and return information about grades of entering by users.
 - This is a Java Console Application
 ### Getting Grades Using Scanner
 ```java 
